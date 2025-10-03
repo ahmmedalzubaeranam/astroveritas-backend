@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+joblib
+lightkurve
+scikit-learn
+lightgbm
+pandas
+numpy
